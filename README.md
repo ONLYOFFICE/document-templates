@@ -1,9 +1,11 @@
 # ONLYOFFICE template files
 
 Used in
-* [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/desktop-apps)
-* [ONLYOFFICE Documents for Android](https://github.com/ONLYOFFICE/documents-android)
-* [ONLYOFFICE Documents for iOS](https://github.com/ONLYOFFICE/documents-app-ios)
+* [Confluence ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-confluence)
+* [HumHub ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-humhub)
+* [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
+* [ONLYOFFICE Alfresco module package](https://github.com/ONLYOFFICE/onlyoffice-alfresco)
+* [ownCloud ONLYOFFICE integration app](https://github.com/onlyoffice/onlyoffice-owncloud)
 
 
 # Authors
