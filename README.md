@@ -1,10 +1,5 @@
-# ONLYOFFICE template files
+## Overview
 
-Used in
-* [ONLYOFFICE Community Server](https://github.com/ONLYOFFICE/portals/)
+Template files used to create new documents and documents with sample content in
 
-
-# Authors
-
-* Ascensio System SIA: <integration@onlyoffice.com>
-
+* [ONLYOFFICE Community Server](https://github.com/ONLYOFFICE/CommunityServer)
