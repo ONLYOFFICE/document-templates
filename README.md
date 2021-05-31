@@ -1,6 +1,7 @@
-# ONLYOFFICE template files
+## Overview
 
-Used in
+Template files used to create new documents and documents with sample content in: 
+
 * [Confluence ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-confluence)
 * [HumHub ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-humhub)
 * [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
@@ -8,7 +9,4 @@ Used in
 * [ownCloud ONLYOFFICE integration app](https://github.com/onlyoffice/onlyoffice-owncloud)
 
 
-# Authors
-
-* Ascensio System SIA: <integration@onlyoffice.com>
 
