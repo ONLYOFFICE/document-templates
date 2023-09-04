@@ -11,5 +11,6 @@ Template files used to create new documents and documents with sample content in
 * [Nuxeo ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-nuxeo)
 * [ONLYOFFICE Alfresco module package](https://github.com/ONLYOFFICE/onlyoffice-alfresco)
 * [ONLYOFFICE App for Pipedrive](https://github.com/onlyoffice/onlyoffice-pipedrive)
+* [ONLYOFFICE DocSpace App for Zoom](https://github.com/onlyoffice/onlyoffice-docspace-zoom)
 * [ownCloud ONLYOFFICE integration app](https://github.com/onlyoffice/onlyoffice-owncloud)
 * [Plone ONLYOFFICE integration plugin](https://github.com/onlyoffice/onlyoffice-plone)
