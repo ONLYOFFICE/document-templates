@@ -4,7 +4,6 @@ Template files used to create new documents and documents with sample content in
 
 - [Jira ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-jira)
 - [HumHub ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-humhub)
-- [Liferay ONLYOFFICE Connector](https://github.com/ONLYOFFICE/onlyoffice-liferay)
 - [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
 - [Odoo ONLYOFFICE integration app](https://github.com/onlyoffice/onlyoffice-odoo)
 - [ONLYOFFICE App for Pipedrive](https://github.com/onlyoffice/onlyoffice-pipedrive)
