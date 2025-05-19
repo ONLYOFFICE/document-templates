@@ -2,6 +2,7 @@
 
 Template files used to create new documents and documents with sample content in:
 
+- [ONLYOFFICE app for Miro](https://github.com/ONLYOFFICE/onlyoffice-miro)
 - [ONLYOFFICE app for Nextcloud](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
 - [ONLYOFFICE app for Odoo](https://github.com/onlyoffice/onlyoffice-odoo)
 - [ONLYOFFICE app for ownCloud](https://github.com/onlyoffice/onlyoffice-owncloud)
